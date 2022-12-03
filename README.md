@@ -10,7 +10,7 @@ Every purchase triggers a smart contract event, and transactions are created as 
 
 <b>Note must be connected to Mumbai network if using default build configuration.</b>
 
-Video: <a href="https://vimeo.com/777632388/351eb78f9d" target="_blank">Demo video</a>
+Video: <a href="https://youtu.be/fnjCgxzxG3U" target="_blank">Demo video</a>
 
 
 ## Pain points:
