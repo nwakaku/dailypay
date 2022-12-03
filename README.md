@@ -7,11 +7,10 @@ Inspired by platforms KUDA and Chippper Cash.
 
 Every purchase triggers a smart contract event, and transactions are created as NFTs with receipts that may be submitted as proof of purchase in-store and to Vendors. 
 
-Live demo: <a href="" target="_blank">here</a>
 
 <b>Note must be connected to Mumbai network if using default build configuration.</b>
 
-Video: <a href="" target="_blank">Demo video</a>
+Video: <a href="https://vimeo.com/777632388/351eb78f9d" target="_blank">Demo video</a>
 
 
 ## Pain points:
